@@ -8,6 +8,7 @@ namespace Variaveis
         {
             int inteiro;
             uint uinteiro;
+            char letra;
 
 
             inteiro = 6; //inteiro
@@ -15,7 +16,9 @@ namespace Variaveis
             
             Console.WriteLine("{0}, {1}", inteiro, uinteiro);
 
+            letra = 'a'; // char
 
+            Console.WriteLine(letra);
         }
     }
 }
