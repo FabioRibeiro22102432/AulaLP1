@@ -19,6 +19,8 @@ namespace Variaveis
             letra = 'a'; // char
 
             Console.WriteLine(letra);
+
+
         }
     }
 }
